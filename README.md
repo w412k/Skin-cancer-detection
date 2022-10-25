@@ -2,7 +2,7 @@
 Skin cancer detection / deep learning using python
 
 
-GoodFit Model
+GoodFit Model/ Training Graph
 
 ![training_met_plotting](https://user-images.githubusercontent.com/93298291/197681901-087e926f-7798-42e1-a455-997555114ac6.png)
 
