@@ -7,5 +7,8 @@ GoodFit Model
 
 
 
+
+
+
 Model Evaluation chart
 ![evaluation](https://user-images.githubusercontent.com/93298291/197681923-a2f22fb1-e9a8-459d-bcb7-aa49f565ec30.png)
